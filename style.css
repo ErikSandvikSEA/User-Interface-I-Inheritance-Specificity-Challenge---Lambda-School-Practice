@@ -1,0 +1,30 @@
+.parent{
+  color: red;
+}
+.parent .child{
+  color: blue;
+}
+.parent .child .grandchild{
+  color: green;
+}
+.parent .child .grandchild .greatgrandchild {
+  color: pink;
+}
+.parent .child .grandchild .greatgrandchild.greatgrandchild2{
+  color: purple;
+}
+.parent .child.child2{
+  color: coral;
+}
+.parent .child.child2 .grandchild{
+  color: aqua;
+}
+.parent .child.child2 .grandchild .greatgrandchild{
+  color: rosybrown;
+}
+.parent .child.child2 .grandchild.grandchild2{
+  color: sienna;
+}
+.parent .child.child2 .grandchild.grandchild2 .greatgrandchild{
+  color: tomato;
+}
